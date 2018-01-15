@@ -1,0 +1,4 @@
+
+NPM INSTALL
+TSC
+Node index.js
