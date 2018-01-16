@@ -1,2 +1,27 @@
 ﻿@model _3SemesterEksamen.Models.Index
 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Start</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p>Hvad er spørgsmålet i din quiz? @Html.TextBoxFor(x => x.Titel) </p>
+        <p>Hvad er mulighed 1? @Html.TextBoxFor(x => x.Mulighed1)  </p>
+        <p>Hvad er mulighed 2? @Html.TextBoxFor(x => x.Mulighed2) </p>
+        <p>Hvad er mulighed 3? @Html.TextBoxFor(x => x.Mulighed3) </p>
+
+            <input type="submit" value="Submit" />
+
+    }
+</body>
+</html>

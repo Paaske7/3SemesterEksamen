@@ -40,3 +40,45 @@ C:\Users\Paask\Desktop\3. Semester Programmerings eksamen\MVC_Templated\MVC_Temp
 C:\Users\Paask\Desktop\3. Semester Programmerings eksamen\MVC_Templated\MVC_Templated\obj\Debug\MVC_Templated.csproj.CoreCompileInputs.cache
 C:\Users\Paask\Desktop\3. Semester Programmerings eksamen\MVC_Templated\MVC_Templated\obj\Debug\MVC_Templated.dll
 C:\Users\Paask\Desktop\3. Semester Programmerings eksamen\MVC_Templated\MVC_Templated\obj\Debug\MVC_Templated.pdb
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\ApplicationInsights.config
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\MVC_Templated.dll.config
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\MVC_Templated.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\MVC_Templated.pdb
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Antlr3.Runtime.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.Web.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Newtonsoft.Json.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Helpers.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Mvc.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Optimization.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Razor.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.WebPages.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\WebGrease.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Helpers.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Mvc.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Optimization.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.Razor.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.WebPages.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Antlr3.Runtime.pdb
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Newtonsoft.Json.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\bin\Microsoft.AI.Web.xml
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\obj\Debug\MVC_Templated.csprojResolveAssemblyReference.cache
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\obj\Debug\MVC_Templated.csproj.CoreCompileInputs.cache
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\obj\Debug\MVC_Templated.dll
+C:\Users\Paask\Desktop\3SemesterEksamen\3SemesterEksamen\3SemesterEksamen_WithAboutOsv\MVC_Templated\obj\Debug\MVC_Templated.pdb

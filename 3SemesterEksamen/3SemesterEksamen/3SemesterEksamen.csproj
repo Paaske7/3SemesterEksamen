@@ -124,8 +124,11 @@
     <None Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Index\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Index\Index.cshtml" />
+    <Content Include="Views\Index\Next.cshtml" />
+    <Content Include="Views\Index\URL.cshtml" />
+    <Content Include="Views\Index\Result.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

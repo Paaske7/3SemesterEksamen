@@ -1,0 +1,27 @@
+﻿@model _3SemesterEksamen.Models.Index
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Strawpoll</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p>@Model.Titel</p>
+        <p>@Model.Mulighed1: @Html.CheckBox("Mulighed 1", false) </p>
+        <p>@Model.Mulighed2: @Html.CheckBox("Mulighed 2", false) </p>
+        <p>@Model.Mulighed3: @Html.CheckBox("Mulighed 3", false) </p>
+
+        <input type="submit" value="Submit" />
+
+    }
+</body>
+</html>

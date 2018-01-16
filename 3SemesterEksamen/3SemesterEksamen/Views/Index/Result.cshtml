@@ -1,0 +1,24 @@
+﻿@model _3SemesterEksamen.Models.Index
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p>@Model.Titel</p>
+        <p>@Model.Mulighed1: @Html.EditorFor(x => x.Remember) </p>
+        <p>@Model.Mulighed2: @Html.EditorFor(x => x.Remember2) </p>
+        <p>@Model.Mulighed3: @Html.EditorFor(x => x.Remember3) </p>
+    }
+</body>
+</html>
